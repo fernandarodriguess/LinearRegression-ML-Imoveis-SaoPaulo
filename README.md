@@ -1,4 +1,6 @@
 # Linear Regression Machine Learning - Imóveis em São Paulo
+## 📌PROJETO EM HOLD 
+## ✅ANÁLISE EXPLORATÓRIA FINALIZADA
 
 Esse projeto tem o intuito de mapear os principais bairros das zonas administrativas da cidade de São Paulo, a fim de treinar um modelo de Regressão Linear que possa prever os valores de aluguel.
 

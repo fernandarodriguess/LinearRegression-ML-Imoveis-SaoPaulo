@@ -1,3 +1,4 @@
-MAE: 1102.0627
-RMSE: 1640.7997
-R2: 0.5705
+Métricas Médias dos Modelos Treinados:
+R² médio: 0.6365
+RMSE médio: 1157.33
+MAE médio: 835.72
